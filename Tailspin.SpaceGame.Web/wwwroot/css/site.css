@@ -12,8 +12,9 @@ h2 {
 section {
   text-align: center;
   padding: 6rem 0;
-  border-bottom: 3px solid black; }
-
+  border-bottom: 3px solid black; 
+}
+ 
 .intro {
   height: 350px;
   background-color: green;
